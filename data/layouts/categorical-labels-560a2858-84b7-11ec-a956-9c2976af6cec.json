@@ -1,0 +1,26 @@
+{
+    "positions": [
+        [
+            -0.93939,
+            -1.0
+        ],
+        [
+            -0.93939,
+            0.11765
+        ],
+        [
+            0.21212,
+            -1.0
+        ],
+        [
+            0.15152,
+            0.11765
+        ]
+    ],
+    "labels": [
+        "Bodleian Libraries University of Oxford",
+        "National Library Board Singapore",
+        "Leiden University Libraries",
+        "Beinecke Library Yale University"
+    ]
+}

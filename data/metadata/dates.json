@@ -1,0 +1,1990 @@
+{
+    "domain": {
+        "min": 1478,
+        "max": 1900
+    },
+    "dates": {
+        "1780": [
+            "001fe644-73cd-435c-a0d3-0bd67b8a3a07.png",
+            "192fb6ae-f24b-4d81-8613-83d07cfc4052.png",
+            "6b72b80d-acea-41b2-a4d6-f92aee272e45.png",
+            "7d2fe60b-b5b3-4432-b3b1-890a958d57e7.png",
+            "beinecke__15825823.tif.png",
+            "bodleian__Bodleian_0230.tif.png",
+            "c0411518-4e74-4686-9a60-0b49686c991e.png",
+            "c6608a9d-7776-483e-ad07-b26d294cad43.png",
+            "e0123240-f94a-4162-9a64-867ced0d53e6.png",
+            "e8642e94-1ca6-4d87-9c7a-081a3576abd6.png",
+            "hdl1887.1item1990273.png",
+            "hdl1887.1item2011251.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-073.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-175-N-008.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-175-N-022.tif.png"
+        ],
+        "1778": [
+            "01974f69-2e8c-4e7f-aee5-50263900ace2.png",
+            "a4d0164a-f874-4d24-a521-8682e194061d.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-070.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-071.tif.png"
+        ],
+        "1746": [
+            "0345bf31-fb55-4432-a10d-7d6850a01b73.png",
+            "05a52b2a-eeca-4308-b8d0-db3b4da8eedd.png",
+            "13c6cd33-63c7-449a-816a-02d0a3f509a7.png",
+            "7e0f88bd-f0a6-458a-a4bc-ae0b49bb83d7.png",
+            "b1664850-7462-4c58-bbee-0369b96b0a36.png",
+            "b6fee520-c929-46a5-af4a-159e91f1a3fb.png",
+            "ff0b3bf7-6e5e-4527-8221-95018d4babd8.png",
+            "hdl1887.1item876321.png",
+            "hdl1887.1item876353.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-6.tif.png"
+        ],
+        "1748": [
+            "0473171b-a538-4d23-a976-1460a984b058.png",
+            "2f14746c-c92d-4ad1-8740-85a1947ed9ab.png",
+            "beinecke__15249777.tif.png",
+            "beinecke__15509944.tif.png",
+            "beinecke__15509946.tif.png",
+            "f313ab1e-d2ff-44d8-a1e2-68eed200d219.png",
+            "fe9776ee-abfd-4fbb-9180-fc642b276628.png",
+            "leiden__UBLCKA_COLLBN-Port-175-N-019.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-175-N-020.tif.png"
+        ],
+        "1605": [
+            "04acaeff-c4d6-4936-93d6-bd1d5669d69c.png"
+        ],
+        "1652": [
+            "04dc24a9-3f91-4646-8753-e377b99ec91a.png",
+            "4f3d27ed-61a6-48fe-a3e8-a18c654658ec.png",
+            "beinecke__16372856.tif.png",
+            "fa19ad50-499f-4835-bd5d-02560ed4ff73.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-016.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-4.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-5.tif.png"
+        ],
+        "1744": [
+            "0519c3f1-5e44-4c08-bb2d-0acd03c805a7.png",
+            "2f6de972-4c27-4870-955c-4027422b7754.png",
+            "beinecke__1276033.tif.png",
+            "beinecke__1278070.tif.png",
+            "bfa7d0b7-bdcc-4f06-830a-82ff7823c882.png",
+            "cb479ed4-8d43-4694-89d3-23a0a95fa9ab.png",
+            "f575b455-0038-4a35-a7f7-48e3b2484d95.png",
+            "fc3a78ed-08dc-41a2-a520-f1c64404b9f7.png",
+            "hdl1887.1item2497193.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-048.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-049.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-177-N-7.tif.png"
+        ],
+        "1812": [
+            "06fc03c6-979c-4435-8f55-330d341b8993.png",
+            "3bbda62c-8d38-4665-a09a-0df08fb08c05.png",
+            "9b7c297f-1d80-47d8-a919-34110e512b36.png",
+            "hdl1887.1item2011589.png"
+        ],
+        "1750": [
+            "0752fe0b-1a8e-42d0-a2e6-1def1212979d.png",
+            "0fbda7c8-a2f9-4a44-8f27-f2502fe5975e.png",
+            "5e8df9d3-2426-40c0-828b-fe316d352cfa.png",
+            "7d229482-8967-435c-a143-ac34323f53fd.png",
+            "8b4dcb8c-2cf5-46a1-9521-71868e5dda04.png",
+            "9b643fa8-955a-4632-908c-f9294bd4cba2.png",
+            "a2568425-02ea-45e9-99f2-55f2bfe60743.png",
+            "aa60f094-d339-4edd-bf8f-10c703edddee.png",
+            "beinecke__16372872.tif.png",
+            "bodleian__dym0250.tif.png",
+            "hdl1887.1item876317.png",
+            "hdl1887.1item876318.png",
+            "hdl1887.1item876374.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-012.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-036.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-037.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-054.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-055.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-177-N-9.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-065.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-086.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-7.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-7a.tif.png"
+        ],
+        "1595": [
+            "08b34cea-9219-4ea7-92be-4046c6dc7c61.png",
+            "45910d2d-c71a-41d8-9570-45f327694548.png",
+            "beinecke__1141328.tif.png",
+            "beinecke__1151857.tif.png",
+            "beinecke__1151865.tif.png",
+            "hdl1887.1item876327.png"
+        ],
+        "1711": [
+            "091c6cca-58d3-4f92-bb55-63f7b5903809.png",
+            "1d3fc72d-a951-4aae-8fb7-294116fcf457.png",
+            "ef90ad5d-8164-4397-bc35-be000dc70471.png"
+        ],
+        "1704": [
+            "0adb38ad-3fe6-4146-badd-0a98bbfb6d15.png",
+            "a537ecfb-3b00-443e-a829-d618f9d0d75f.png"
+        ],
+        "1730": [
+            "0c015062-d717-44bd-9881-2e1848ae3a22.png",
+            "14974bf1-3dd5-4474-b6b2-a8dbdb59b412.png",
+            "43b91425-fa08-493c-bee6-b75abce944be.png",
+            "hdl1887.1item2528883.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-047.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-177-N-39.tif.png"
+        ],
+        "1776": [
+            "0daef3f2-0add-4fc9-90d2-ffef3551c9fa.png",
+            "bodleian__Bodleian_0074.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-175-N-009.tif.png"
+        ],
+        "1545": [
+            "0f61a85e-a9e3-45f0-a43a-c62f11f742d4.png",
+            "62bd1970-0ecc-4ed7-beb0-b44cd37d9d83.png"
+        ],
+        "1836": [
+            "1047de9b-11af-4e89-8395-c5e410c0d5c4.png",
+            "hdl1887.1item876350.png",
+            "hdl1887.1item876351.png"
+        ],
+        "1598": [
+            "10e8d031-f39e-4fc5-ba5b-3e8e40f2019d.png",
+            "21817c65-8d26-465b-bcb2-58085da071d9.png",
+            "4082535e-ae21-47e0-bf8f-d82276032c58.png",
+            "6ba4fa4c-3ddd-482d-9edb-b8a9ba7b3700.png",
+            "beinecke__1151842.tif.png",
+            "beinecke__1151847.tif.png"
+        ],
+        "1683": [
+            "11ad3cde-b048-41d8-b0c0-c98ad524fb20.png",
+            "2a261096-2c8b-438a-b687-6b832c29801f.png",
+            "47e7f005-3c8c-4879-a0a8-6a0ffa90f8a2.png",
+            "5dd1fb8e-9a19-44b7-a531-fda1d1796b37.png",
+            "6dbe6a82-e8de-4c32-9734-2c0ca3cd5fb5.png",
+            "beinecke__16708746.tif.png"
+        ],
+        "1772": [
+            "13cdb906-e742-4b87-aff2-b8085d713a64.png",
+            "295fe713-2c6d-44d0-beaf-f7855771ba76.png",
+            "46cbba06-e165-4b7a-80e3-b4af80b853d0.png",
+            "4898db5d-6565-4ad0-bb93-8b1c4afc7db4.png",
+            "764b6f87-f70d-4458-ab84-5fbd1156bf0e.png",
+            "9ab4fee9-1f1c-4ee6-9912-9c05a91031a1.png",
+            "ba055df2-2969-4fc4-9c06-595adc2845b9.png",
+            "bodleian__Bodleian_0225.tif.png",
+            "d56dbc98-d445-4fb8-987d-385679a38b20.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-068.tif.png"
+        ],
+        "1880": [
+            "14205fc7-55f0-4ce8-bb85-14de91632bee.png",
+            "bodleian__Bodleian2_0157.tif.png",
+            "hdl1887.1item2011016.png",
+            "hdl1887.1item2011031.png",
+            "hdl1887.1item2011102.png",
+            "hdl1887.1item2011525.png",
+            "hdl1887.1item2012377.png",
+            "hdl1887.1item2016115.png"
+        ],
+        "1898": [
+            "15249817.png",
+            "beinecke__15249769.tif.png",
+            "beinecke__15252069.tif.png",
+            "beinecke__15509954.tif.png",
+            "beinecke__15824846.tif.png",
+            "bodleian__Bodleian2_0116.tif.png",
+            "bodleian__Bodleian_0022.tif.png",
+            "bodleian__Bodleian_0058.tif.png",
+            "bodleian__Bodleian_0067.tif.png",
+            "bodleian__Bodleian_0086.tif.png",
+            "bodleian__Bodleian_0170.tif.png",
+            "bodleian__dym0035.tif.png",
+            "bodleian__dym0038.tif.png",
+            "bodleian__dym0048.tif.png",
+            "bodleian__dym0090.tif.png",
+            "bodleian__dym0091.tif.png",
+            "bodleian__dym0092.tif.png",
+            "bodleian__dym0100.tif.png",
+            "bodleian__dym0103.tif.png",
+            "bodleian__dym0164.tif.png",
+            "bodleian__dym0167.tif.png",
+            "hdl1887.1item1995333.png",
+            "hdl1887.1item1995342.png",
+            "hdl1887.1item1995485.png",
+            "hdl1887.1item1995504.png",
+            "hdl1887.1item1996137.png",
+            "hdl1887.1item1996184.png",
+            "hdl1887.1item1996493.png",
+            "hdl1887.1item1996718.png",
+            "hdl1887.1item1997020.png",
+            "hdl1887.1item2010688.png",
+            "hdl1887.1item2010732.png",
+            "hdl1887.1item2010809.png",
+            "hdl1887.1item2010874.png",
+            "hdl1887.1item2010964.png",
+            "hdl1887.1item2011223.png",
+            "hdl1887.1item2011234.png",
+            "hdl1887.1item2011243.png",
+            "hdl1887.1item2011284.png",
+            "hdl1887.1item2011366.png",
+            "hdl1887.1item2011411.png",
+            "hdl1887.1item2011412.png",
+            "hdl1887.1item2011423.png",
+            "hdl1887.1item2011477.png",
+            "hdl1887.1item2011610.png",
+            "hdl1887.1item2011822.png",
+            "hdl1887.1item2011899.png",
+            "hdl1887.1item2011902.png",
+            "hdl1887.1item2011922.png",
+            "hdl1887.1item2011970.png",
+            "hdl1887.1item2012008.png",
+            "hdl1887.1item2012048.png",
+            "hdl1887.1item2012068.png",
+            "hdl1887.1item2012082.png",
+            "hdl1887.1item2012119.png",
+            "hdl1887.1item2012173.png",
+            "hdl1887.1item2012188.png",
+            "hdl1887.1item2012250.png",
+            "hdl1887.1item2012314.png",
+            "hdl1887.1item2012315.png",
+            "hdl1887.1item2012335.png",
+            "hdl1887.1item2012388.png",
+            "hdl1887.1item2012437.png",
+            "hdl1887.1item2012514.png",
+            "hdl1887.1item2012819.png",
+            "hdl1887.1item2012828.png",
+            "hdl1887.1item2015249.png"
+        ],
+        "1809": [
+            "15504780.png",
+            "6d5d8593-495f-4894-b6cc-21f95c86387b.png",
+            "beinecke__1024529.tif.png"
+        ],
+        "1815": [
+            "15efb06c-4ab1-4fd3-b405-4e3a559ea5b6.png",
+            "2d39331d-f574-4867-88b1-768fa8550ed8.png",
+            "bdf6927b-be9f-488b-a391-38eace5d12a5.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-003.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-091.tif.png"
+        ],
+        "1801": [
+            "1812f7af-fb0b-4272-8970-36479ae844ed.png",
+            "bodleian__dym0255.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-177-N-23.tif.png"
+        ],
+        "1775": [
+            "185556ee-1a42-48aa-a4d2-432d6966f802.png",
+            "5a8866c5-d3d7-46fd-b520-3ad61e6acf37.png",
+            "hdl1887.1item127242.png",
+            "hdl1887.1item3181775.png",
+            "hdl1887.1item3181776.png",
+            "leiden__UBLCKA_COLLBN-Port-175-N-011.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-177-N-44.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-177-N-47.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-177-N-48.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-177-N-50.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-177-N-56.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-177-N-58.tif.png"
+        ],
+        "1800": [
+            "199a8697-ec44-4a08-9192-66b98ae467f9.png",
+            "7a884d36-ab1c-44e0-87c9-b68cbd361378.png",
+            "beinecke__15504778.tif.png",
+            "beinecke__15504779.tif.png",
+            "beinecke__15504854.tif.png",
+            "beinecke__15504855.tif.png",
+            "beinecke__15504856.tif.png",
+            "beinecke__15504857.tif.png",
+            "beinecke__15504858.tif.png",
+            "beinecke__15504859.tif.png",
+            "bodleian__Bodleian_0039.tif.png",
+            "hdl1887.1item2011250.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-078.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-175-N-026.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-177-N-67.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-055.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-069.tif.png"
+        ],
+        "1894": [
+            "1a5f2943-165b-44e7-ba6b-9fc207c4faf3.png",
+            "beinecke__15249793.tif.png",
+            "bodleian__Bodleian_0014.tif.png",
+            "bodleian__Bodleian_0030.tif.png",
+            "bodleian__Bodleian_0031.tif.png",
+            "bodleian__Bodleian_0050.tif.png",
+            "bodleian__Bodleian_0053.tif.png",
+            "bodleian__Bodleian_0062.tif.png",
+            "bodleian__Bodleian_0115.tif.png",
+            "bodleian__Bodleian_0131.tif.png",
+            "bodleian__Bodleian_0179.tif.png",
+            "bodleian__Bodleian_0212.tif.png",
+            "bodleian__dym0113.tif.png",
+            "bodleian__dym0115.tif.png",
+            "bodleian__dym0131.tif.png",
+            "bodleian__dym0135.tif.png",
+            "hdl1887.1item1996680.png",
+            "hdl1887.1item1996812.png",
+            "hdl1887.1item1996926.png",
+            "hdl1887.1item2010687.png",
+            "hdl1887.1item2011035.png",
+            "hdl1887.1item2011228.png",
+            "hdl1887.1item2011732.png",
+            "hdl1887.1item2011753.png",
+            "hdl1887.1item2012043.png",
+            "hdl1887.1item2012477.png",
+            "hdl1887.1item2012601.png",
+            "hdl1887.1item2014628.png",
+            "hdl1887.1item2016837.png"
+        ],
+        "1764": [
+            "1b336dbf-f22e-47d0-b2f9-0ba5917d3135.png",
+            "680a16c3-49de-4632-be3e-ab03ad627c8c.png",
+            "a9dbda69-071d-4589-a75b-eefe8de12e82.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-072.tif.png"
+        ],
+        "1607": [
+            "1b969e30-fa57-44c3-838a-4016ca7dcb5a.png",
+            "754d53ab-1879-4599-9824-7dbd72a671f4.png",
+            "beinecke__16710072.tif.png"
+        ],
+        "1799": [
+            "1c4ea750-423d-407f-8261-3cb2c6533ff8.png",
+            "bodleian__Bodleian2_0097.tif.png"
+        ],
+        "1817": [
+            "1cf27a65-383d-4f4a-90d6-d48367362a15.png",
+            "bodleian__dym0253.tif.png",
+            "hdl1887.1item1997084.png",
+            "hdl1887.1item2012218.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-070.tif.png"
+        ],
+        "1700": [
+            "1f7a7168-2dfe-4f24-84d3-f606d9d62003.png",
+            "30208327-4b17-4c68-98f3-c3d4a1f234e4.png",
+            "36aaf9d9-ce6f-4b5a-b06d-017ba3382efa.png",
+            "70931e81-7de3-4afb-b0de-71140cec5231.png",
+            "b24a4f82-5a21-41a8-8f32-180dd04c5a01.png",
+            "beinecke__15249877.tif.png",
+            "beinecke__15428301.tif.png",
+            "beinecke__15830694.tif.png",
+            "bodleian__Bodleian_0246.tif.png",
+            "bodleian__Bodleian_0247.tif.png",
+            "bodleian__Bodleian_0251.tif.png",
+            "bodleian__dym0064.tif.png",
+            "bodleian__dym0258.tif.png",
+            "hdl1887.1item2324889.png",
+            "hdl1887.1item3181720.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-019.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-026.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-030.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-031.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-038.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-039.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-056.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-10.tif.png"
+        ],
+        "1878": [
+            "219b102f-f770-4237-8694-52425c0932b1.png",
+            "beinecke__16732126.tif.png",
+            "bodleian__Bodleian_0035.tif.png",
+            "bodleian__Bodleian_0106.tif.png",
+            "bodleian__Bodleian_0196.tif.png",
+            "hdl1887.1item2010857.png",
+            "hdl1887.1item2011640.png",
+            "hdl1887.1item2011709.png",
+            "hdl1887.1item2012285.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-087.tif.png"
+        ],
+        "1670": [
+            "2229f868-c299-4c47-bfb3-257aaaae23c8.png",
+            "248226e5-b040-45ec-8f12-9fd547b3a1d8.png",
+            "beinecke__15830693.tif.png"
+        ],
+        "1706": [
+            "23a82f77-afc1-4a03-b26b-3ca81629b145.png",
+            "719c2f08-d7c8-486e-b5d5-75c738ddf2ee.png",
+            "fac48922-d9cf-46f0-a9ef-497ad5606058.png"
+        ],
+        "1702": [
+            "23cd4526-f2cc-4a53-b723-99ac317acc0e.png",
+            "436366ea-bdc1-4495-9eb1-ed1dfadb4f69.png",
+            "95ecd705-735e-4e11-b541-3eddff9fe316.png",
+            "beinecke__16618498.tif.png"
+        ],
+        "1588": [
+            "2490f22c-a82a-4f14-bfde-4f4cbb16b12a.png",
+            "7f72fe30-d89e-4a29-b490-d1a203fd4652.png",
+            "804f689b-c9c7-419e-8c8b-fdabb2d38f9f.png",
+            "e6605da7-6249-4698-b2de-dc98a37c666b.png",
+            "ff196d9a-e682-456c-ae8b-608e6d74403d.png"
+        ],
+        "1740": [
+            "24e02997-4644-40db-9d56-4f6d57719b13.png",
+            "76b93118-198c-48f6-9222-302a5a7f675b.png",
+            "7a119fb9-239c-4e97-ad72-47f96685bddd.png",
+            "beinecke__15829939.tif.png",
+            "bodleian__Bodleian_0077.tif.png",
+            "dd751bb8-9613-4a24-863c-5b5f8b88e82b.png",
+            "hdl1887.1item2013450.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-034.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-16.tif.png"
+        ],
+        "1692": [
+            "2539b700-89d5-468c-8479-e6ee98f8154f.png",
+            "7d4d53f4-e734-4356-aa23-8273704ad775.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-022.tif.png"
+        ],
+        "1860": [
+            "254aec92-ce7b-4ac0-a13e-feb35bba72c1.png",
+            "beinecke__15504787.tif.png",
+            "beinecke__15514644.tif.png",
+            "bodleian__Bodleian2_0055.tif.png",
+            "bodleian__Bodleian2_0056.tif.png",
+            "bodleian__Bodleian2_0057.tif.png",
+            "bodleian__Bodleian2_0058.tif.png",
+            "bodleian__Bodleian2_0059.tif.png",
+            "bodleian__Bodleian2_0060.tif.png",
+            "bodleian__Bodleian2_0061.tif.png",
+            "bodleian__Bodleian2_0070.tif.png",
+            "bodleian__Bodleian2_0078.tif.png",
+            "bodleian__Bodleian2_0079.tif.png",
+            "bodleian__Bodleian_0089.tif.png",
+            "hdl1887.1item2011408.png",
+            "hdl1887.1item2011625.png",
+            "leiden__UBLCKA_COLLBN-Port-177-N-46.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-046.tif.png"
+        ],
+        "1749": [
+            "26e44398-6536-43de-81f8-126561bf1de2.png",
+            "94f22cad-4507-4c96-b374-ba213db2ad21.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-044.tif.png"
+        ],
+        "1600": [
+            "27a2901d-4909-49d5-a3cf-406e68bea909.png",
+            "519c2258-18b9-43d4-a598-1f56f9fd89f3.png",
+            "7da28546-0f28-4e87-88c4-f7862002f269.png",
+            "8b5b95d1-8c36-47e5-aff8-fccbe2b5fb38.png",
+            "9af1a134-12a1-43cc-b652-17e8063978fb.png",
+            "beinecke__1141363.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-007.tif.png"
+        ],
+        "1714": [
+            "28d62c6f-68ac-4d08-97ba-c991b347bfb2.png",
+            "2eb9f1e4-a764-434c-9cfe-6c58b7fc1529.png",
+            "bodleian__dym0221.tif.png",
+            "ee9a9f6b-a9cf-4555-b463-b57968108086.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-053.tif.png"
+        ],
+        "1680": [
+            "2aafda95-f540-4773-9d63-2388d4c1b714.png",
+            "37a66fb6-b192-4cb1-8136-7dad6c5e758f.png",
+            "43ddf6a9-1ac7-4af4-a9d0-c81c2619f8ae.png",
+            "523ed57b-50fd-4cb0-85bd-beba9dfc2631.png",
+            "619d488a-66da-4abb-bc87-ff892f7769b5.png",
+            "8f47faea-8b54-4d0f-92aa-20dd4d5f52f0.png",
+            "beinecke__1211253.tif.png",
+            "bodleian__Bodleian_0220.tif.png",
+            "ccb3f04c-d578-42bf-ae98-59592257e289.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-021.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-175-N-014.tif.png"
+        ],
+        "1657": [
+            "2c75af84-34aa-4e95-98ce-8cccea0fe3ee.png",
+            "dd551cf3-801f-4e80-9efa-d161e1f3606d.png",
+            "hdl1887.1item2010901.png"
+        ],
+        "1630": [
+            "2cee7d48-dd3b-405e-bdc9-a0373790e1fe.png",
+            "537c9b13-09ef-4587-9734-8897f08f4df9.png",
+            "aacfe48f-9eda-4377-bb29-42d112b1904f.png",
+            "bodleian__Bodleian2_0113.tif.png",
+            "hdl1887.1item2039318.png",
+            "hdl1887.1item876376.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-009.tif.png"
+        ],
+        "1596": [
+            "302a34a9-17c9-48db-abcb-53133aa7c27a.png",
+            "938f86f2-a3d5-4e19-b98f-fa939b7290d5.png",
+            "be8e82d7-8ebb-43f5-b128-279522dff1cb.png",
+            "beinecke__15509943.tif.png",
+            "hdl1887.1item876326.png"
+        ],
+        "1645": [
+            "319bab96-cc54-4346-a0fd-0a76c21c6688.png"
+        ],
+        "1850": [
+            "33d0ff71-9bda-4067-97df-8bbdd2c4436b.png",
+            "bodleian__Bodleian_0114.tif.png",
+            "hdl1887.1item1996692.png",
+            "hdl1887.1item2012112.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-092.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-093.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-175-N-038.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-038.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-072.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-17.tif.png"
+        ],
+        "1535": [
+            "352902c8-0302-4683-a319-ae6367c72f53.png",
+            "e483005e-4b75-40e8-a1fb-15e697f87be4.png"
+        ],
+        "1785": [
+            "36061577-a359-405c-ada7-47e45b9d7098.png",
+            "7955c01a-1051-46ee-b8fb-24c3ce90bc1e.png",
+            "b17214b9-0cd7-4c3d-9659-9a19fd3c3e05.png"
+        ],
+        "1713": [
+            "369f12e3-f72b-4ede-8319-5d106f25ef87.png",
+            "cb434f8a-1a70-42f4-ad84-22d7c75a95d0.png",
+            "d9ce6883-b6d6-4ec2-a498-f09e35a20361.png",
+            "hdl1887.1item3181784.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-040.tif.png"
+        ],
+        "1614": [
+            "36edd627-7d88-44d1-ae38-f01f68716cac.png",
+            "87886eee-b6f2-45ac-9425-84ea66028f71.png",
+            "88ccfd7d-3d75-4e23-99e7-03e4dd5d4c82.png",
+            "ad4b6669-836e-4480-b46c-509e52d11959.png",
+            "e918de6d-6f66-4bf0-8bef-fec1632f3ec1.png"
+        ],
+        "1602": [
+            "38130c34-225a-492b-ae34-ffe14fe53654.png",
+            "59a34aae-fda1-4895-89a4-e0b88d4941cf.png",
+            "ad30d93f-4e4e-46be-a1e1-0c0afdc5f62c.png",
+            "beinecke__1141356.tif.png",
+            "beinecke__15504757.tif.png"
+        ],
+        "1777": [
+            "38bb68e2-8fdb-4609-9f14-6dfe9ebed407.png",
+            "bodleian__Bodleian2_0117.tif.png",
+            "bodleian__dym0020.tif.png"
+        ],
+        "1660": [
+            "3955bdd9-4288-465d-ac8c-e1fcc5028e32.png"
+        ],
+        "1717": [
+            "3957ca10-8863-4f87-9d8c-49cfe590b0cd.png"
+        ],
+        "1755": [
+            "3a948b6a-2865-4753-b621-d9518339f9c1.png",
+            "hdl1887.1item3181780.png",
+            "hdl1887.1item3181781.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-063.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-177-N-1.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-177-N-40.tif.png"
+        ],
+        "1824": [
+            "3bfbfba4-0868-4201-a62d-d47059e65430.png",
+            "8d8234e3-b3f6-43e0-8a1e-69ab5e55baad.png",
+            "bodleian__dym0106.tif.png",
+            "bodleian__dym0216.tif.png",
+            "fd486f63-14da-4d75-be2d-8aae99102006.png",
+            "hdl1887.1item2011481.png",
+            "hdl1887.1item2011749.png",
+            "leiden__UBLCKA_COLLBN-Port-177-N-28.tif.png"
+        ],
+        "1771": [
+            "42bafeaa-ad50-436a-aa32-6ec763bd7996.png"
+        ],
+        "1770": [
+            "44e5152e-38fa-4924-af01-25dd4b3cf39c.png",
+            "8ee78d17-7bf4-413d-9138-1559da4aa1ec.png",
+            "beinecke__1012287.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-061.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-8.tif.png"
+        ],
+        "1635": [
+            "45565262-0642-4782-a851-6d288ed0ab19.png"
+        ],
+        "1665": [
+            "475f8c8b-2524-4989-bbad-aac9a0e91a56.png",
+            "beinecke__15249776.tif.png",
+            "beinecke__15514656.tif.png"
+        ],
+        "1666": [
+            "47875294-5373-46af-af5d-b23e96fed33f.png",
+            "64679d98-4c5a-471c-91cb-fca03220ae52.png",
+            "beinecke__16389992.tif.png"
+        ],
+        "1827": [
+            "47f771d1-9db5-4cb3-97a6-10fdd1b78d12.png"
+        ],
+        "1698": [
+            "4c2ccb52-8f16-4f70-ac97-d1153ed4c707.png"
+        ],
+        "1726": [
+            "50e30e34-a052-44e1-b173-e7b969ac6c95.png",
+            "ca1a1be9-a344-4f78-aaf8-55a1fe5a52a4.png",
+            "leiden__UBLCKA_COLLBN-Port-177-N-22.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-177-N-41.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-177-N-42.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-177-N-43.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-060a.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-061a.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-063.tif.png"
+        ],
+        "1789": [
+            "51123953-37fe-4584-a9be-522e60451625.png"
+        ],
+        "1574": [
+            "52a1cee5-c28e-43d2-a99e-3eba4560a7ad.png"
+        ],
+        "1839": [
+            "5477aacc-477d-4df8-9b65-bda8175dc7f7.png",
+            "hdl1887.1item127172.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-079.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-091.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-031.tif.png"
+        ],
+        "1544": [
+            "55d386a0-1b37-4b2c-9c69-1f2def636868.png"
+        ],
+        "1623": [
+            "57be68af-977a-448a-997c-3ba708f1163d.png",
+            "decf8b75-38f8-4a8f-8177-0677ad69606b.png"
+        ],
+        "1784": [
+            "58ae74ee-1159-4692-b8dc-015b4d9fd054.png",
+            "hdl1887.1item3181778.png"
+        ],
+        "1783": [
+            "58d3abb8-81fb-47f8-826a-e95ff14d0864.png",
+            "bodleian__Bodleian2_0118.tif.png"
+        ],
+        "1541": [
+            "59c9f0ea-d8fd-46f5-a4fc-5a4e87b1eb5d.png"
+        ],
+        "1728": [
+            "59d3fdde-cc0e-4476-be35-3d0bbc2bef38.png",
+            "b25c149c-04d0-4342-9924-c8beb7a93e65.png",
+            "bodleian__Bodleian2_0018.tif.png",
+            "bodleian__Bodleian_0066.tif.png",
+            "bodleian__dym0254.tif.png"
+        ],
+        "1561": [
+            "5b2c9334-1c4d-432c-8de4-8eabf9d15f29.png",
+            "b5368811-7308-4bef-99c7-7a807d071b84.png"
+        ],
+        "1542": [
+            "600865ce-6f57-4303-94fe-7f2c555cb509.png",
+            "beinecke__1116577.tif.png"
+        ],
+        "1581": [
+            "612a611d-66ef-4a68-a4f7-f1226702e419.png",
+            "beinecke__15831881.tif.png",
+            "c9029cd4-2015-43f9-8348-2e856e031106.png"
+        ],
+        "1724": [
+            "61e33612-5bc8-46b7-b676-89404fcdfbc7.png",
+            "hdl1887.1item876347.png",
+            "leiden__UBLCKA_COLLBN-Port-175-N-004.tif.png"
+        ],
+        "1829": [
+            "6ac8dcf7-cc74-40fd-9c47-6c20169d3191.png",
+            "bodleian__Bodleian_0233.tif.png",
+            "bodleian__Bodleian_0234.tif.png",
+            "bodleian__dym0252.tif.png"
+        ],
+        "1513": [
+            "6b6d10eb-2463-4afa-b7cd-52ebb848a31f.png"
+        ],
+        "1708": [
+            "6db3c36c-2b35-4346-af41-d042d538442c.png",
+            "beinecke__1024542.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-033.tif.png"
+        ],
+        "1684": [
+            "6fd3549f-c08d-4f34-beff-99026b066398.png",
+            "bodleian__Bodleian_0104.tif.png"
+        ],
+        "1659": [
+            "7d51ddfd-0a77-4943-be77-4a47b840d15f.png"
+        ],
+        "1565": [
+            "7d90b105-b4be-4d31-8558-7d421fa51c8c.png",
+            "a15baf60-6b0e-4835-a8c4-4b15b11ff49d.png",
+            "beinecke__1115309.tif.png",
+            "beinecke__1115323.tif.png",
+            "beinecke__1115331.tif.png"
+        ],
+        "1767": [
+            "7e053111-bcd2-4fcb-99df-ee0f3eda4ef4.png",
+            "d12675ca-14a7-436b-8514-305c9cd6853e.png"
+        ],
+        "1840": [
+            "7e3b20e6-1c94-4597-829d-6a4ce5340860.png",
+            "a62fb907-6162-4f98-a0e5-9492cac35ef5.png",
+            "b6277a9e-996f-4d92-92ea-75ec43faf6c6.png",
+            "beinecke__15504788.tif.png",
+            "beinecke__16708755.tif.png",
+            "dbbbcaee-e578-4594-a672-0ded01f4ee66.png",
+            "f2bc4760-c76d-4c01-b713-c73dd9245225.png",
+            "hdl1887.1item2011692.png",
+            "hdl1887.1item2012059.png",
+            "hdl1887.1item2012224.png",
+            "hdl1887.1item3181777.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-043.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-089.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-033.tif.png"
+        ],
+        "1633": [
+            "7e401819-d95d-49d0-856e-3a6e8bd0c218.png"
+        ],
+        "1732": [
+            "7f246d22-8858-458d-8423-6cfdd8548aba.png",
+            "beinecke__1151806.tif.png",
+            "beinecke__1151807.tif.png",
+            "bodleian__Bodleian_0236.tif.png",
+            "bodleian__Bodleian_0238.tif.png",
+            "bodleian__dym0214.tif.png",
+            "bodleian__dym0215.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-041.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-042.tif.png"
+        ],
+        "1486": [
+            "81db80bb-5ec2-406b-a5a8-6d994b793b02.png"
+        ],
+        "1691": [
+            "82a70b7d-1dfe-404a-ae8f-822482222c2d.png"
+        ],
+        "1758": [
+            "8455a3a7-8b4f-45e9-9e1f-2c7f616f21d0.png",
+            "b4fa89b9-9a16-4447-8651-5d53a4ce132e.png",
+            "hdl1887.1item2032731.png"
+        ],
+        "1522": [
+            "8538529b-acc6-49ca-bd54-97744c544700.png"
+        ],
+        "1676": [
+            "8572f4eb-8b53-49c5-bb98-af1fc7a4adae.png",
+            "bodleian__dym0249.tif.png"
+        ],
+        "1834": [
+            "87150c7c-4c81-49e2-a25c-a41040c5d97d.png",
+            "bdae9353-d444-4ad3-9554-996c325b6801.png",
+            "f7dd3951-e34b-4f49-a928-be48c130d7e6.png",
+            "leiden__UBLCKA_COLLBN-Port-177-N-34.tif.png"
+        ],
+        "1601": [
+            "87d5eb75-edfb-42bf-9e22-f0bfa574d514.png",
+            "98708dde-f2b5-4228-a1aa-940cf7d1233b.png",
+            "beinecke__1141345.tif.png",
+            "beinecke__1141347.tif.png"
+        ],
+        "1658": [
+            "8996f46a-d304-43df-be7f-0e98b09102b8.png"
+        ],
+        "1689": [
+            "8b7d6298-d636-461a-aadc-9063f591b28c.png",
+            "a5ae38f1-a23d-4f5e-b61f-2bd5579264e3.png"
+        ],
+        "1631": [
+            "8d3962c3-3312-4ceb-8f00-6fa0a584490c.png",
+            "ed4662bd-5b94-4f5c-a180-27b828d822a4.png"
+        ],
+        "1685": [
+            "8d50104d-7175-4bcc-a8fd-88eed521a297.png"
+        ],
+        "1720": [
+            "8e9690f3-253f-478a-b84d-25e4d2c16370.png",
+            "a1043949-e3d8-4bf6-9902-75a5557faba7.png",
+            "bodleian__Bodleian2_0163.tif.png",
+            "bodleian__Bodleian2_0165.tif.png",
+            "bodleian__Bodleian2_0166.tif.png",
+            "bodleian__Bodleian2_0167.tif.png",
+            "bodleian__dym0229.tif.png",
+            "d8912ba1-dc88-493b-bbeb-ceb0aa35270b.png",
+            "hdl1887.1item2011557.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-046.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-057.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-058.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-059.tif.png"
+        ],
+        "1579": [
+            "94fe04d6-e0cd-4f39-a566-38984eaa73ee.png",
+            "leiden__UBLCKA_COLLBN-011-14-058.tif.png"
+        ],
+        "1763": [
+            "98d2a1a2-d73f-43c0-bc7c-9cfb60d2c23b.png"
+        ],
+        "1599": [
+            "98e98059-8c3c-4d22-9c8a-7288ec4436d9.png"
+        ],
+        "1781": [
+            "9d06abd0-b9ff-40a3-8f81-3970d6cad14b.png"
+        ],
+        "1855": [
+            "9d2d1e50-edcd-4806-a310-f13647c391c3.png",
+            "bodleian__Bodleian2_0030.tif.png",
+            "bodleian__Bodleian2_0033.tif.png",
+            "bodleian__Bodleian2_0034.tif.png",
+            "bodleian__Bodleian2_0043.tif.png",
+            "bodleian__Bodleian2_0044.tif.png",
+            "bodleian__Bodleian2_0062.tif.png",
+            "bodleian__Bodleian2_0068.tif.png",
+            "bodleian__Bodleian_0172.tif.png",
+            "hdl1887.1item2012849.png",
+            "hdl1887.1item2013647.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-079.tif.png"
+        ],
+        "1646": [
+            "a0b44b7e-f1ec-4f8b-b868-a83b7d97a8aa.png",
+            "a5f01a8c-caca-4cab-aba0-357448281ec1.png",
+            "b081fdb3-9c49-4375-a356-034c17398a6c.png",
+            "beinecke__15249775.tif.png",
+            "dd5b403f-adf4-46d9-9b9e-ddcdb4373030.png"
+        ],
+        "1644": [
+            "a42bb5a5-a54c-4c7c-b6f0-ca07272e5b3b.png"
+        ],
+        "1677": [
+            "a48dc01d-09d0-4767-bf6f-387fa159e74d.png"
+        ],
+        "1661": [
+            "a5449297-261b-4c11-8169-f9663b77ac65.png",
+            "c22538ec-8c2b-4650-a2ec-b6909d50f21c.png"
+        ],
+        "1795": [
+            "a5a12914-9e19-4c86-8493-2c65ddc2608d.png",
+            "beinecke__15504776.tif.png",
+            "beinecke__15504777.tif.png",
+            "e4d3af25-f5f5-42da-991b-2fd55b64b1fd.png",
+            "hdl1887.1item2032727.png"
+        ],
+        "1636": [
+            "a5ef9b4e-071b-47c9-9c48-cff394fff697.png"
+        ],
+        "1869": [
+            "a65fb77c-ff1a-4eb8-90f8-0ee4056ec32c.png",
+            "bodleian__Bodleian_0078.tif.png",
+            "bodleian__Bodleian_0237.tif.png",
+            "hdl1887.1item2010763.png",
+            "hdl1887.1item2012370.png"
+        ],
+        "1846": [
+            "a73bf132-4dea-4a52-a93d-39d517514b7b.png",
+            "bodleian__Bodleian_0223.tif.png",
+            "bodleian__Bodleian_0224.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-175-N-030.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-026.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-036.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-040.tif.png",
+            "leiden__UBLKIT_L_2511-0389.tiff.png"
+        ],
+        "1707": [
+            "a9555b0a-6b2b-4ba7-ba1e-ac77f94c7285.png",
+            "aae428ca-85dc-4519-8877-1607cb4d69d7.png"
+        ],
+        "1705": [
+            "a9fb846e-b454-4ba8-9a77-4e4729a5ed45.png",
+            "beinecke__1012282.tif.png",
+            "beinecke__15828660.tif.png",
+            "hdl1887.1item3181719.png",
+            "hdl1887.1item3181723.png",
+            "hdl1887.1item876369.png",
+            "leiden__UBLCKA_COLLBN-Port-175-N-015.tif.png"
+        ],
+        "1616": [
+            "ab8cf384-84e3-4f3a-ae79-ed4dbc930f8c.png",
+            "b630a3ba-374c-4b21-a8e9-123aa91bfa41.png"
+        ],
+        "1613": [
+            "ae9035a4-3230-4681-a40c-10e64f178013.png",
+            "af8bbc95-80cc-4b1c-9a6b-b4739002d020.png",
+            "b1561e5e-a3f3-4876-8ff2-f9014e66a0bc.png"
+        ],
+        "1810": [
+            "b0249305-76ef-45d8-8e49-041d16973f39.png",
+            "beinecke__15829945.tif.png",
+            "fb4657a0-1f9a-4b58-a4aa-83e9c2d71daf.png"
+        ],
+        "1853": [
+            "b34e0834-6ceb-4292-b3e1-93d77fda3471.png",
+            "bodleian__Bodleian2_0019.tif.png",
+            "bodleian__Bodleian2_0021.tif.png",
+            "bodleian__Bodleian2_0025.tif.png",
+            "bodleian__Bodleian2_0072.tif.png",
+            "bodleian__Bodleian2_0076.tif.png",
+            "bodleian__Bodleian2_0077.tif.png",
+            "bodleian__Bodleian_0163.tif.png",
+            "hdl1887.1item1997007.png"
+        ],
+        "1747": [
+            "b813871f-098b-4ec7-904b-700a814a6672.png",
+            "beinecke__15504766.tif.png",
+            "hdl1887.1item3181764.png"
+        ],
+        "1715": [
+            "baf5e56f-c9e7-4af9-8671-c5944c60c51a.png",
+            "d7e29cad-db52-494b-acec-c32b2b07de3b.png",
+            "hdl1887.1item1582147.png"
+        ],
+        "1798": [
+            "bbc5b34f-e38f-45fc-a50a-f96acfecce5b.png",
+            "beinecke__15829941.tif.png",
+            "e443d721-0958-410e-9ee4-8d521f097577.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-068.tif.png"
+        ],
+        "1769": [
+            "bedb66c6-fcc1-4675-a782-dbb6ab83d9fb.png"
+        ],
+        "1823": [
+            "beinecke__1024528.tif.png",
+            "beinecke__15514682.tif.png",
+            "beinecke__15514686.tif.png",
+            "hdl1887.1item2011277.png",
+            "hdl1887.1item2011302.png",
+            "hdl1887.1item2011325.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-047.tif.png"
+        ],
+        "1603": [
+            "beinecke__1026123.tif.png"
+        ],
+        "1618": [
+            "beinecke__1141392.tif.png",
+            "beinecke__1151765.tif.png",
+            "beinecke__1151766.tif.png",
+            "f4502cfe-1b82-4f13-a8b0-226b1bb1f5f4.png"
+        ],
+        "500": [
+            "beinecke__1151796.tif.png"
+        ],
+        "1625": [
+            "beinecke__1176256.tif.png",
+            "beinecke__1176262.tif.png",
+            "beinecke__1176268.tif.png",
+            "beinecke__1176274.tif.png"
+        ],
+        "1787": [
+            "beinecke__1209412.tif.png",
+            "beinecke__15504771.tif.png"
+        ],
+        "1662": [
+            "beinecke__1211256.tif.png",
+            "leiden__UBLCKA_COLLBN-051-02-003.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-175-N-013.tif.png"
+        ],
+        "1653": [
+            "beinecke__1308657.tif.png"
+        ],
+        "1866": [
+            "beinecke__15249720.tif.png",
+            "bodleian__Bodleian_0140.tif.png",
+            "hdl1887.1item2011504.png",
+            "hdl1887.1item2012115.png",
+            "hdl1887.1item2012556.png"
+        ],
+        "1900": [
+            "beinecke__15249723.tif.png",
+            "beinecke__15249771.tif.png",
+            "beinecke__15249786.tif.png",
+            "beinecke__15251308.tif.png",
+            "beinecke__15251309.tif.png",
+            "beinecke__15251555.tif.png",
+            "beinecke__15252071.tif.png",
+            "beinecke__15252075.tif.png",
+            "beinecke__15252077.tif.png",
+            "beinecke__15252079.tif.png",
+            "beinecke__15504790.tif.png",
+            "beinecke__15514630.tif.png",
+            "bodleian__dym0056.tif.png",
+            "bodleian__dym0059.tif.png",
+            "bodleian__dym0089.tif.png",
+            "bodleian__dym0173.tif.png",
+            "bodleian__dym0178.tif.png",
+            "bodleian__dym0180.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-088.tif.png"
+        ],
+        "1899": [
+            "beinecke__15249770.tif.png",
+            "beinecke__15249788.tif.png",
+            "beinecke__15530984.tif.png",
+            "bodleian__Bodleian2_0001.tif.png",
+            "bodleian__Bodleian2_0112.tif.png",
+            "bodleian__Bodleian_0075.tif.png",
+            "bodleian__Bodleian_0090.tif.png",
+            "bodleian__Bodleian_0100.tif.png",
+            "bodleian__dym0021.tif.png",
+            "bodleian__dym0052.tif.png",
+            "bodleian__dym0055.tif.png",
+            "bodleian__dym0065.tif.png",
+            "bodleian__dym0111.tif.png",
+            "bodleian__dym0157.tif.png",
+            "bodleian__dym0206.tif.png",
+            "hdl1887.1item1995820.png",
+            "hdl1887.1item1995822.png",
+            "hdl1887.1item1995989.png",
+            "hdl1887.1item1996524.png",
+            "hdl1887.1item1996659.png",
+            "hdl1887.1item1996825.png",
+            "hdl1887.1item1997297.png",
+            "hdl1887.1item2010733.png",
+            "hdl1887.1item2011338.png",
+            "hdl1887.1item2011854.png",
+            "hdl1887.1item2012011.png",
+            "hdl1887.1item2012012.png",
+            "hdl1887.1item2012361.png",
+            "hdl1887.1item2012505.png",
+            "hdl1887.1item2012699.png",
+            "hdl1887.1item2017043.png"
+        ],
+        "1884": [
+            "beinecke__15249778.tif.png",
+            "bodleian__Bodleian_0064.tif.png",
+            "bodleian__dym0187.tif.png",
+            "hdl1887.1item1996889.png",
+            "hdl1887.1item1997254.png",
+            "hdl1887.1item2011145.png",
+            "hdl1887.1item2011221.png",
+            "hdl1887.1item2011943.png",
+            "hdl1887.1item2012524.png",
+            "hdl1887.1item2012618.png",
+            "leiden__UBLCKA_COLLBN-Port-61-N-56.tif.png"
+        ],
+        "1852": [
+            "beinecke__15249784.tif.png"
+        ],
+        "1837": [
+            "beinecke__15249795.tif.png",
+            "bodleian__dym0227.tif.png",
+            "hdl1887.1item2010961.png"
+        ],
+        "1835": [
+            "beinecke__15249801.tif.png",
+            "bodleian__Bodleian_0229.tif.png",
+            "bodleian__Bodleian_0239.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-175-N-040.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-177-N-172.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-177-N-33.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-029.tif.png"
+        ],
+        "1882": [
+            "beinecke__15249803.tif.png",
+            "bodleian__Bodleian_0116.tif.png",
+            "bodleian__Bodleian_0161.tif.png",
+            "bodleian__dym0230.tif.png",
+            "hdl1887.1item1996345.png",
+            "hdl1887.1item2010990.png",
+            "hdl1887.1item2012665.png"
+        ],
+        "1710": [
+            "beinecke__15249848.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-027.tif.png"
+        ],
+        "1757": [
+            "beinecke__15249880.tif.png",
+            "hdl1887.1item3181782.png"
+        ],
+        "1851": [
+            "beinecke__15249886.tif.png",
+            "bodleian__dym0051.tif.png",
+            "eaff77fd-fa4f-4203-940b-10c7e95345b0.png"
+        ],
+        "1667": [
+            "beinecke__15504758.tif.png"
+        ],
+        "1697": [
+            "beinecke__15504759.tif.png",
+            "bodleian__dym0256.tif.png",
+            "hdl1887.1item291738.png"
+        ],
+        "1723": [
+            "beinecke__15504762.tif.png",
+            "beinecke__15504763.tif.png"
+        ],
+        "1737": [
+            "beinecke__15504764.tif.png"
+        ],
+        "1745": [
+            "beinecke__15504765.tif.png"
+        ],
+        "1774": [
+            "beinecke__15504768.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-177-N-11.tif.png"
+        ],
+        "1791": [
+            "beinecke__15504773.tif.png",
+            "bodleian__Bodleian_0221.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-019.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-19.tif.png"
+        ],
+        "1792": [
+            "beinecke__15504774.tif.png",
+            "c9ecb64d-338e-43ab-aa78-d5f3bdf7a921.png",
+            "leiden__UBLCKA_COLLBN-Port-175-N-021.tif.png"
+        ],
+        "1794": [
+            "beinecke__15504775.tif.png",
+            "bodleian__Bodleian_0021.tif.png",
+            "bodleian__Bodleian_0032.tif.png",
+            "bodleian__Bodleian_0034.tif.png",
+            "bodleian__Bodleian_0036a.tif.png",
+            "bodleian__Bodleian_0036b.tif.png",
+            "bodleian__Bodleian_0040.tif.png",
+            "bodleian__Bodleian_0041.tif.png",
+            "bodleian__dym0050.tif.png",
+            "bodleian__dym0182.tif.png",
+            "bodleian__dym0220.tif.png",
+            "c16afd08-56b9-4974-9494-953fdad5e636.png",
+            "e937d5f6-6b2a-428c-ac04-8bcbaba536f1.png",
+            "fe36be22-8ab2-4e65-a67d-39d41a7f23a1.png"
+        ],
+        "1845": [
+            "beinecke__15504786.tif.png",
+            "beinecke__15504850.tif.png",
+            "beinecke__15511906.tif.png",
+            "bodleian__Bodleian2_0156.tif.png",
+            "hdl1887.1item2013964.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-095.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-099.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-100.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-025.tif.png"
+        ],
+        "1790": [
+            "beinecke__15509948.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-052.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-060.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-090.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-57-N-056.tif.png"
+        ],
+        "1842": [
+            "beinecke__15509949.tif.png",
+            "beinecke__16708758.tif.png",
+            "bodleian__dym0003.tif.png",
+            "c0127c26-448d-4cad-9cae-c3fcec4c9a14.png",
+            "leiden__UBLCKA_COLLBN-Port-175-N-001.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-032.tif.png"
+        ],
+        "1883": [
+            "beinecke__15510696.tif.png",
+            "bodleian__Bodleian_0037.tif.png",
+            "bodleian__Bodleian_0081.tif.png",
+            "bodleian__Bodleian_0123.tif.png",
+            "bodleian__dym0013.tif.png",
+            "bodleian__dym0042.tif.png",
+            "bodleian__dym0045.tif.png",
+            "bodleian__dym0053.tif.png",
+            "bodleian__dym0212.tif.png",
+            "hdl1887.1item1996466.png",
+            "hdl1887.1item1996500.png",
+            "hdl1887.1item1997005.png",
+            "hdl1887.1item1997064.png",
+            "hdl1887.1item2010910.png",
+            "hdl1887.1item2011021.png",
+            "hdl1887.1item2011070.png",
+            "hdl1887.1item2011134.png",
+            "hdl1887.1item2011136.png",
+            "hdl1887.1item2011472.png",
+            "hdl1887.1item2011733.png",
+            "hdl1887.1item2011742.png",
+            "hdl1887.1item2011952.png",
+            "hdl1887.1item2012114.png",
+            "hdl1887.1item2012398.png",
+            "hdl1887.1item2012550.png",
+            "hdl1887.1item2012746.png"
+        ],
+        "1832": [
+            "beinecke__15511902.tif.png",
+            "beinecke__15511903.tif.png",
+            "bodleian__dym0228.tif.png",
+            "edbb3f69-44e2-4f0d-9f63-3ffb7d9b617e.png",
+            "leiden__UBLCKA_COLLBN-Port-177-N-32.tif.png"
+        ],
+        "1820": [
+            "beinecke__15511915.tif.png",
+            "hdl1887.1item3181779.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-076.tif.png"
+        ],
+        "1881": [
+            "beinecke__15514629.tif.png",
+            "bodleian__Bodleian_0019.tif.png",
+            "bodleian__Bodleian_0151.tif.png",
+            "bodleian__Bodleian_0152.tif.png",
+            "bodleian__Bodleian_0153.tif.png",
+            "hdl1887.1item2010710.png",
+            "hdl1887.1item2010755.png",
+            "hdl1887.1item2011167.png",
+            "hdl1887.1item2011448.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-090.tif.png"
+        ],
+        "1870": [
+            "beinecke__15514643.tif.png",
+            "beinecke__15530948.tif.png",
+            "beinecke__15830113.tif.png",
+            "bodleian__dym0107.tif.png",
+            "hdl1887.1item1995432.png",
+            "hdl1887.1item1995483.png",
+            "hdl1887.1item1995568.png",
+            "hdl1887.1item1996464.png",
+            "hdl1887.1item1996764.png",
+            "hdl1887.1item2011537.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-024.tif.png"
+        ],
+        "1873": [
+            "beinecke__15514657.tif.png",
+            "hdl1887.1item2010868.png",
+            "hdl1887.1item2012342.png"
+        ],
+        "1838": [
+            "beinecke__15530962.tif.png"
+        ],
+        "1773": [
+            "beinecke__15825824.tif.png",
+            "hdl1887.1item876372.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-069.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-14.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-9.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-58-N-108.tif.png"
+        ],
+        "1725": [
+            "beinecke__15825862.tif.png"
+        ],
+        "1886": [
+            "beinecke__15828649.tif.png",
+            "bodleian__Bodleian2_0005.tif.png",
+            "bodleian__Bodleian_0082.tif.png",
+            "bodleian__Bodleian_0160.tif.png",
+            "bodleian__dym0002.tif.png",
+            "bodleian__dym0108.tif.png",
+            "bodleian__dym0110.tif.png",
+            "bodleian__dym0168.tif.png",
+            "hdl1887.1item2010808.png",
+            "hdl1887.1item2011608.png",
+            "hdl1887.1item2011880.png",
+            "hdl1887.1item2012564.png",
+            "hdl1887.1item2013743.png",
+            "hdl1887.1item2013850.png"
+        ],
+        "1550": [
+            "beinecke__15828658.tif.png",
+            "beinecke__15831876.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-005.tif.png"
+        ],
+        "1650": [
+            "beinecke__15828662.tif.png",
+            "beinecke__15829943.tif.png",
+            "db008bb8-31e5-4468-90c5-3555f660caed.png",
+            "hdl1887.1item1990269.png"
+        ],
+        "1738": [
+            "beinecke__15830115.tif.png"
+        ],
+        "1612": [
+            "beinecke__15830690.tif.png"
+        ],
+        "1669": [
+            "beinecke__15830692.tif.png",
+            "cc31fd03-6782-4089-9f6f-2d36469967d2.png"
+        ],
+        "1575": [
+            "beinecke__15831880.tif.png"
+        ],
+        "1693": [
+            "beinecke__15831901.tif.png",
+            "beinecke__15831903.tif.png"
+        ],
+        "1752": [
+            "beinecke__16666660.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-056c.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-059.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-175-N-024a.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-013.tiff.png"
+        ],
+        "1896": [
+            "beinecke__16682306.tif.png",
+            "bodleian__Bodleian_0024.tif.png",
+            "bodleian__Bodleian_0059.tif.png",
+            "bodleian__Bodleian_0083.tif.png",
+            "bodleian__Bodleian_0092.tif.png",
+            "bodleian__Bodleian_0094.tif.png",
+            "bodleian__Bodleian_0112.tif.png",
+            "bodleian__Bodleian_0178.tif.png",
+            "bodleian__dym0031.tif.png",
+            "bodleian__dym0137.tif.png",
+            "bodleian__dym0163.tif.png",
+            "bodleian__dym0210.tif.png",
+            "hdl1887.1item1995544.png",
+            "hdl1887.1item1995780.png",
+            "hdl1887.1item1996055.png",
+            "hdl1887.1item1996059.png",
+            "hdl1887.1item1996601.png",
+            "hdl1887.1item1997231.png",
+            "hdl1887.1item1997347.png",
+            "hdl1887.1item2010768.png",
+            "hdl1887.1item2010995.png",
+            "hdl1887.1item2011364.png",
+            "hdl1887.1item2012179.png",
+            "hdl1887.1item2012367.png",
+            "hdl1887.1item2012486.png",
+            "hdl1887.1item2016737.png"
+        ],
+        "1872": [
+            "beinecke__16686254.tif.png",
+            "bodleian__Bodleian_0095.tif.png",
+            "db0174ff-ed33-452a-8798-b4dd3a1485ad.png",
+            "hdl1887.1item2010983.png",
+            "hdl1887.1item2011381.png",
+            "hdl1887.1item2011996.png",
+            "hdl1887.1item2012104.png"
+        ],
+        "1861": [
+            "bf7e823b-8133-43b1-80d9-c629828d9f74.png",
+            "hdl1887.1item2012428.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-094.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-082.tif.png"
+        ],
+        "1664": [
+            "bfd10ed8-024d-4635-8cc3-e9880597543d.png",
+            "bfe70363-3c0a-4440-8156-33b342ae6db6.png"
+        ],
+        "1891": [
+            "bodleian__Bodleian2_0006.tif.png",
+            "bodleian__Bodleian_0042.tif.png",
+            "bodleian__Bodleian_0129.tif.png",
+            "bodleian__Bodleian_0141.tif.png",
+            "bodleian__Bodleian_0176.tif.png",
+            "bodleian__dym0054.tif.png",
+            "bodleian__dym0134.tif.png",
+            "bodleian__dym0166.tif.png",
+            "bodleian__dym0169.tif.png",
+            "bodleian__dym0172.tif.png",
+            "hdl1887.1item1996740.png",
+            "hdl1887.1item1997072.png",
+            "hdl1887.1item1997165.png",
+            "hdl1887.1item2010925.png",
+            "hdl1887.1item2011104.png",
+            "hdl1887.1item2011162.png",
+            "hdl1887.1item2011164.png",
+            "hdl1887.1item2011724.png",
+            "hdl1887.1item2011725.png",
+            "hdl1887.1item2012086.png",
+            "hdl1887.1item2012394.png",
+            "hdl1887.1item2012807.png"
+        ],
+        "1895": [
+            "bodleian__Bodleian2_0010.tif.png",
+            "bodleian__Bodleian2_0114.tif.png",
+            "bodleian__Bodleian_0009.tif.png",
+            "bodleian__Bodleian_0023.tif.png",
+            "bodleian__Bodleian_0061.tif.png",
+            "bodleian__Bodleian_0065.tif.png",
+            "bodleian__Bodleian_0073.tif.png",
+            "bodleian__Bodleian_0201.tif.png",
+            "bodleian__Bodleian_0245.tif.png",
+            "bodleian__dym0049.tif.png",
+            "bodleian__dym0119.tif.png",
+            "bodleian__dym0170.tif.png",
+            "bodleian__dym0189.tif.png",
+            "hdl1887.1item1995726.png",
+            "hdl1887.1item1995731.png",
+            "hdl1887.1item1996654.png",
+            "hdl1887.1item1997246.png",
+            "hdl1887.1item1997252.png",
+            "hdl1887.1item2010727.png",
+            "hdl1887.1item2010738.png",
+            "hdl1887.1item2010959.png",
+            "hdl1887.1item2011131.png",
+            "hdl1887.1item2011773.png",
+            "hdl1887.1item2012211.png",
+            "hdl1887.1item2012312.png",
+            "hdl1887.1item2012590.png",
+            "hdl1887.1item2012751.png",
+            "hdl1887.1item2012791.png",
+            "hdl1887.1item2012802.png",
+            "hdl1887.1item2012805.png",
+            "hdl1887.1item2016502.png"
+        ],
+        "1844": [
+            "bodleian__Bodleian2_0011.tif.png",
+            "bodleian__dym0224.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-035.tif.png"
+        ],
+        "1701": [
+            "bodleian__Bodleian2_0015.tif.png",
+            "bodleian__Bodleian2_0016.tif.png",
+            "bodleian__Bodleian_0252.tif.png",
+            "bodleian__Bodleian_0253.tif.png",
+            "bodleian__dym0251.tif.png"
+        ],
+        "1722": [
+            "bodleian__Bodleian2_0017.tif.png",
+            "bodleian__dym0222.tif.png"
+        ],
+        "1854": [
+            "bodleian__Bodleian2_0020.tif.png",
+            "bodleian__Bodleian2_0022.tif.png",
+            "bodleian__Bodleian2_0029.tif.png",
+            "bodleian__Bodleian2_0069.tif.png",
+            "bodleian__Bodleian2_0071.tif.png",
+            "bodleian__Bodleian2_0073.tif.png",
+            "bodleian__Bodleian2_0074.tif.png",
+            "bodleian__Bodleian2_0075.tif.png",
+            "hdl1887.1item876339.png"
+        ],
+        "1857": [
+            "bodleian__Bodleian2_0023.tif.png",
+            "bodleian__Bodleian2_0024.tif.png",
+            "bodleian__Bodleian2_0026.tif.png",
+            "bodleian__Bodleian2_0027.tif.png",
+            "bodleian__Bodleian2_0028.tif.png",
+            "bodleian__Bodleian2_0035.tif.png",
+            "bodleian__Bodleian2_0051.tif.png",
+            "bodleian__Bodleian2_0052.tif.png",
+            "bodleian__Bodleian2_0053.tif.png",
+            "bodleian__Bodleian2_0054.tif.png",
+            "bodleian__dym0127.tif.png",
+            "hdl1887.1item1996658.png",
+            "hdl1887.1item2010751.png",
+            "hdl1887.1item2011272.png",
+            "leiden__UBLCKA_COLLBN-Port-175-N-039.tif.png"
+        ],
+        "1858": [
+            "bodleian__Bodleian2_0031.tif.png",
+            "bodleian__Bodleian2_0032.tif.png",
+            "bodleian__Bodleian2_0036.tif.png",
+            "bodleian__Bodleian2_0038.tif.png",
+            "bodleian__Bodleian2_0039.tif.png",
+            "bodleian__Bodleian2_0042.tif.png",
+            "bodleian__Bodleian2_0045.tif.png",
+            "bodleian__Bodleian2_0048.tif.png",
+            "bodleian__Bodleian_0076.tif.png",
+            "efa3a2c7-cacb-4198-b6f7-6b6cf3c38397.png",
+            "hdl1887.1item127186.png",
+            "hdl1887.1item2010819.png",
+            "hdl1887.1item2012853.png",
+            "leiden__UBLCKA_COLLBN-Port-177-N-45.tif.png"
+        ],
+        "1859": [
+            "bodleian__Bodleian2_0037.tif.png",
+            "bodleian__Bodleian2_0040.tif.png",
+            "bodleian__Bodleian2_0041.tif.png",
+            "bodleian__Bodleian2_0064.tif.png",
+            "bodleian__Bodleian2_0065.tif.png",
+            "bodleian__Bodleian2_0066.tif.png",
+            "bodleian__Bodleian2_0067.tif.png",
+            "hdl1887.1item2010776.png",
+            "hdl1887.1item2010785.png",
+            "hdl1887.1item2012202.png",
+            "hdl1887.1item2012743.png"
+        ],
+        "1856": [
+            "bodleian__Bodleian2_0046.tif.png",
+            "bodleian__Bodleian2_0047.tif.png",
+            "bodleian__Bodleian2_0063.tif.png",
+            "bodleian__Bodleian2_0080.tif.png",
+            "bodleian__Bodleian2_0081.tif.png",
+            "hdl1887.1item2011503.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-051.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-60-N-56.tif.png"
+        ],
+        "1849": [
+            "bodleian__Bodleian2_0082.tif.png",
+            "bodleian__Bodleian2_0083.tif.png",
+            "bodleian__Bodleian2_0084.tif.png",
+            "bodleian__Bodleian2_0085.tif.png",
+            "bodleian__Bodleian2_0086.tif.png",
+            "bodleian__Bodleian2_0087.tif.png",
+            "bodleian__Bodleian2_0088.tif.png",
+            "bodleian__Bodleian2_0089.tif.png",
+            "bodleian__Bodleian2_0090.tif.png",
+            "bodleian__Bodleian2_0091.tif.png",
+            "bodleian__Bodleian2_0092.tif.png",
+            "bodleian__Bodleian2_0093.tif.png",
+            "bodleian__Bodleian2_0094.tif.png",
+            "bodleian__Bodleian2_0095.tif.png",
+            "bodleian__Bodleian2_0161.tif.png",
+            "bodleian__Bodleian2_0162.tif.png",
+            "bodleian__Bodleian_0226.tif.png",
+            "bodleian__Bodleian_0227.tif.png",
+            "bodleian__Bodleian_0228.tif.png",
+            "d83c73fe-4051-4312-93b2-20c9598149a9.png"
+        ],
+        "1682": [
+            "bodleian__Bodleian2_0096.tif.png"
+        ],
+        "1847": [
+            "bodleian__Bodleian2_0100.tif.png",
+            "bodleian__dym0030.tif.png",
+            "bodleian__dym0226.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-076.tif.png"
+        ],
+        "1889": [
+            "bodleian__Bodleian2_0119.tif.png",
+            "bodleian__Bodleian2_0155.tif.png",
+            "bodleian__Bodleian_0097.tif.png",
+            "bodleian__Bodleian_0145.tif.png",
+            "bodleian__Bodleian_0156.tif.png",
+            "bodleian__Bodleian_0165.tif.png",
+            "bodleian__Bodleian_0188.tif.png",
+            "bodleian__Bodleian_0192.tif.png",
+            "bodleian__Bodleian_0243.tif.png",
+            "bodleian__dym0047.tif.png",
+            "bodleian__dym0205.tif.png",
+            "hdl1887.1item1997100.png",
+            "hdl1887.1item2011374.png",
+            "hdl1887.1item2011813.png",
+            "hdl1887.1item2012373.png",
+            "hdl1887.1item2015335.png"
+        ],
+        "1887": [
+            "bodleian__Bodleian_0001.tif.png",
+            "bodleian__Bodleian_0125.tif.png",
+            "bodleian__Bodleian_0130.tif.png",
+            "bodleian__Bodleian_0150.tif.png",
+            "bodleian__Bodleian_0231.tif.png",
+            "bodleian__dym0012.tif.png",
+            "bodleian__dym0032.tif.png",
+            "bodleian__dym0129.tif.png",
+            "hdl1887.1item1996316.png",
+            "hdl1887.1item1996843.png",
+            "hdl1887.1item1997095.png",
+            "hdl1887.1item2010746.png",
+            "hdl1887.1item2011257.png",
+            "hdl1887.1item2012036.png"
+        ],
+        "1890": [
+            "bodleian__Bodleian_0011.tif.png",
+            "bodleian__Bodleian_0015.tif.png",
+            "bodleian__Bodleian_0016.tif.png",
+            "bodleian__Bodleian_0120.tif.png",
+            "bodleian__Bodleian_0124.tif.png",
+            "bodleian__Bodleian_0147.tif.png",
+            "bodleian__dym0073.tif.png",
+            "bodleian__dym0105.tif.png",
+            "bodleian__dym0138.tif.png",
+            "hdl1887.1item2010690.png",
+            "hdl1887.1item2010739.png",
+            "hdl1887.1item2010765.png",
+            "hdl1887.1item2010804.png",
+            "hdl1887.1item2011300.png",
+            "hdl1887.1item2011495.png",
+            "hdl1887.1item2011766.png",
+            "hdl1887.1item2011829.png",
+            "hdl1887.1item2012204.png",
+            "hdl1887.1item2012244.png",
+            "hdl1887.1item2012445.png",
+            "hdl1887.1item2012561.png",
+            "hdl1887.1item2012574.png",
+            "hdl1887.1item2012666.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-087.tif.png"
+        ],
+        "1897": [
+            "bodleian__Bodleian_0012.tif.png",
+            "bodleian__Bodleian_0013.tif.png",
+            "bodleian__Bodleian_0060.tif.png",
+            "bodleian__Bodleian_0080.tif.png",
+            "bodleian__Bodleian_0085.tif.png",
+            "bodleian__Bodleian_0096.tif.png",
+            "bodleian__Bodleian_0117.tif.png",
+            "bodleian__Bodleian_0133.tif.png",
+            "bodleian__Bodleian_0162.tif.png",
+            "bodleian__dym0044.tif.png",
+            "bodleian__dym0093.tif.png",
+            "bodleian__dym0094.tif.png",
+            "bodleian__dym0191.tif.png",
+            "bodleian__dym0197.tif.png",
+            "hdl1887.1item1995660.png",
+            "hdl1887.1item1996306.png",
+            "hdl1887.1item1997124.png",
+            "hdl1887.1item1997219.png",
+            "hdl1887.1item2010707.png",
+            "hdl1887.1item2011444.png",
+            "hdl1887.1item2011535.png",
+            "hdl1887.1item2011553.png",
+            "hdl1887.1item2011864.png",
+            "hdl1887.1item2012044.png",
+            "hdl1887.1item2012264.png",
+            "hdl1887.1item2012410.png",
+            "hdl1887.1item2012607.png",
+            "hdl1887.1item2016520.png",
+            "hdl1887.1item2016782.png"
+        ],
+        "1892": [
+            "bodleian__Bodleian_0017.tif.png",
+            "bodleian__Bodleian_0018.tif.png",
+            "bodleian__Bodleian_0051.tif.png",
+            "bodleian__Bodleian_0121.tif.png",
+            "bodleian__Bodleian_0142.tif.png",
+            "bodleian__Bodleian_0164.tif.png",
+            "bodleian__Bodleian_0184.tif.png",
+            "bodleian__Bodleian_0200.tif.png",
+            "bodleian__Bodleian_0203.tif.png",
+            "bodleian__Bodleian_0206.tif.png",
+            "bodleian__dym0036.tif.png",
+            "bodleian__dym0037.tif.png",
+            "bodleian__dym0043.tif.png",
+            "bodleian__dym0046.tif.png",
+            "bodleian__dym0099.tif.png",
+            "bodleian__dym0101.tif.png",
+            "bodleian__dym0121.tif.png",
+            "bodleian__dym0156.tif.png",
+            "bodleian__dym0208.tif.png",
+            "hdl1887.1item1996689.png",
+            "hdl1887.1item1996846.png",
+            "hdl1887.1item2010844.png",
+            "hdl1887.1item2011339.png",
+            "hdl1887.1item2011966.png"
+        ],
+        "1893": [
+            "bodleian__Bodleian_0020.tif.png",
+            "bodleian__Bodleian_0052.tif.png",
+            "bodleian__Bodleian_0054.tif.png",
+            "bodleian__Bodleian_0056.tif.png",
+            "bodleian__Bodleian_0057.tif.png",
+            "bodleian__Bodleian_0084.tif.png",
+            "bodleian__Bodleian_0087.tif.png",
+            "bodleian__Bodleian_0091.tif.png",
+            "bodleian__Bodleian_0098.tif.png",
+            "bodleian__Bodleian_0144.tif.png",
+            "bodleian__Bodleian_0166.tif.png",
+            "bodleian__Bodleian_0167.tif.png",
+            "bodleian__Bodleian_0168.tif.png",
+            "bodleian__Bodleian_0169.tif.png",
+            "bodleian__dym0022.tif.png",
+            "bodleian__dym0109.tif.png",
+            "bodleian__dym0117.tif.png",
+            "bodleian__dym0165.tif.png",
+            "bodleian__dym0179.tif.png",
+            "bodleian__dym0185.tif.png",
+            "bodleian__dym0223.tif.png",
+            "hdl1887.1item1889233.png",
+            "hdl1887.1item1995747.png",
+            "hdl1887.1item1995803.png",
+            "hdl1887.1item2010831.png",
+            "hdl1887.1item2011009.png",
+            "hdl1887.1item2011466.png",
+            "hdl1887.1item2011571.png",
+            "hdl1887.1item2011752.png",
+            "hdl1887.1item2011786.png",
+            "hdl1887.1item2012192.png",
+            "hdl1887.1item2012613.png",
+            "hdl1887.1item2014355.png"
+        ],
+        "1875": [
+            "bodleian__Bodleian_0038.tif.png",
+            "bodleian__dym0130.tif.png",
+            "bodleian__dym0132.tif.png",
+            "hdl1887.1item2011034.png",
+            "hdl1887.1item2011498.png",
+            "hdl1887.1item2012730.png"
+        ],
+        "1864": [
+            "bodleian__Bodleian_0048.tif.png",
+            "bodleian__dym0014.tif.png",
+            "hdl1887.1item2011072.png",
+            "hdl1887.1item2011848.png",
+            "hdl1887.1item2011931.png"
+        ],
+        "1843": [
+            "bodleian__Bodleian_0055.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-175-N-029.tif.png"
+        ],
+        "1888": [
+            "bodleian__Bodleian_0088.tif.png",
+            "bodleian__Bodleian_0118.tif.png",
+            "bodleian__Bodleian_0132.tif.png",
+            "bodleian__Bodleian_0157.tif.png",
+            "bodleian__Bodleian_0158.tif.png",
+            "bodleian__Bodleian_0180.tif.png",
+            "bodleian__dym0184.tif.png",
+            "hdl1887.1item2011776.png",
+            "hdl1887.1item2011830.png",
+            "hdl1887.1item2012191.png",
+            "hdl1887.1item2012267.png",
+            "hdl1887.1item2012774.png",
+            "hdl1887.1item2012782.png",
+            "hdl1887.1item2016113.png"
+        ],
+        "1885": [
+            "bodleian__Bodleian_0093.tif.png",
+            "bodleian__Bodleian_0119.tif.png",
+            "bodleian__Bodleian_0155.tif.png",
+            "bodleian__Bodleian_0159.tif.png",
+            "bodleian__Bodleian_0244.tif.png",
+            "bodleian__dym0033.tif.png",
+            "bodleian__dym0098.tif.png",
+            "bodleian__dym0126.tif.png",
+            "hdl1887.1item1997291.png",
+            "hdl1887.1item2011410.png",
+            "hdl1887.1item2011743.png",
+            "hdl1887.1item2012516.png"
+        ],
+        "1862": [
+            "bodleian__Bodleian_0108.tif.png",
+            "hdl1887.1item2011957.png",
+            "hdl1887.1item91699.png"
+        ],
+        "1879": [
+            "bodleian__Bodleian_0134.tif.png",
+            "hdl1887.1item2010840.png",
+            "hdl1887.1item2011287.png",
+            "hdl1887.1item2012405.png",
+            "hdl1887.1item2012762.png"
+        ],
+        "1814": [
+            "bodleian__Bodleian_0222.tif.png",
+            "c508cc89-6dd3-44df-acb8-74c1cd24a61f.png"
+        ],
+        "1831": [
+            "bodleian__Bodleian_0235.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-083.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-084.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-175-N-036.tif.png"
+        ],
+        "1788": [
+            "bodleian__Bodleian_0240.tif.png"
+        ],
+        "1867": [
+            "bodleian__Bodleian_0242.tif.png",
+            "hdl1887.1item1995522.png",
+            "hdl1887.1item1995787.png",
+            "hdl1887.1item2010914.png",
+            "hdl1887.1item2012820.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-044.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-048.tif.png"
+        ],
+        "1876": [
+            "bodleian__dym0001.tif.png",
+            "hdl1887.1item2010904.png",
+            "hdl1887.1item2010956.png",
+            "hdl1887.1item2011556.png",
+            "hdl1887.1item2012215.png"
+        ],
+        "1871": [
+            "bodleian__dym0122.tif.png",
+            "bodleian__dym0136.tif.png",
+            "hdl1887.1item2010828.png",
+            "hdl1887.1item2012541.png",
+            "hdl1887.1item2012571.png"
+        ],
+        "1804": [
+            "bodleian__dym0203.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-18.tif.png"
+        ],
+        "1678": [
+            "bodleian__dym0225.tif.png"
+        ],
+        "1679": [
+            "bodleian__dym0257.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-018.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-177-N-18.tif.png"
+        ],
+        "1671": [
+            "c228c02d-eea0-4400-82c5-c5b26575d12b.png"
+        ],
+        "1640": [
+            "c62b65f2-5729-4d22-bf17-24480e9ee255.png",
+            "e42521f0-91ac-42e2-b9dc-c6c4ffed71d7.png"
+        ],
+        "1729": [
+            "c844769a-8b50-4443-821a-c4cb25c8f575.png",
+            "leiden__UBLCKA_COLLBN-Port-177-N-21.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-177-N-38.tif.png"
+        ],
+        "1690": [
+            "c98fffeb-8751-4307-b427-e68d5abdd0a8.png",
+            "dc691554-782f-4cfb-93be-0c3b94430ac0.png",
+            "hdl1887.1item2001707.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-015.tif.png"
+        ],
+        "1643": [
+            "cf8b9f9f-1b65-4935-8f27-9bce985a4cc1.png",
+            "e985752b-96d6-4f69-af9d-682914e76c88.png"
+        ],
+        "1719": [
+            "d3a86fde-5787-44e9-9d7f-c6b54a7f17e8.png",
+            "e539a080-b140-4741-814c-823a2fb8a85e.png",
+            "leiden__UBLCKA_COLLBN-Port-177-N-5.tif.png"
+        ],
+        "1656": [
+            "d451c649-b4dd-4076-a5f7-71defcd99438.png"
+        ],
+        "1590": [
+            "d7b1fafa-c82c-491e-b095-b7ecf81646e9.png"
+        ],
+        "1716": [
+            "dd8daef6-fdec-4fd2-acb1-89f4336aa7dc.png"
+        ],
+        "1609": [
+            "e0b5f809-d0ef-4de0-aee6-d8523ac687a7.png",
+            "edbfde00-29a9-41ba-8ede-9ed8b641f5ef.png"
+        ],
+        "1540": [
+            "e2546542-6833-4db8-9629-42b988677ae6.png"
+        ],
+        "1606": [
+            "e39a3898-45a9-43ca-8697-0ac25dff7f7d.png"
+        ],
+        "1511": [
+            "e3c5d678-0c58-4b6f-8556-2d8b088b3849.png"
+        ],
+        "1547": [
+            "e9bf6ef0-a97e-42cb-8b33-49890b95bee1.png"
+        ],
+        "1478": [
+            "ecec93db-7cc8-493c-98f5-53e1d6034169.png"
+        ],
+        "1638": [
+            "eedfb1cb-89c5-4911-ba93-a9a307ec38cd.png"
+        ],
+        "1624": [
+            "efa520de-8250-4862-b612-51cc032518ae.png"
+        ],
+        "1828": [
+            "f3ba1016-1e74-427d-b4a0-438bc592b928.png",
+            "hdl1887.1item2011754.png",
+            "hdl1887.1item2039981.png"
+        ],
+        "1597": [
+            "f4600681-f69e-4f69-b7b6-816ee02f508c.png"
+        ],
+        "1632": [
+            "fca131af-5775-4b07-91e0-a90be7333dbc.png"
+        ],
+        "1641": [
+            "fe3f21e0-5983-4df7-b8e0-b58430ec6109.png"
+        ],
+        "1619": [
+            "ff22ad16-d851-4446-aacd-3056cd873ba7.png"
+        ],
+        "1830": [
+            "hdl1887.1item127205.png",
+            "hdl1887.1item2001710.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-082-1.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-175-N-035.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-020.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-022.tif.png"
+        ],
+        "1760": [
+            "hdl1887.1item1995586.png"
+        ],
+        "1797": [
+            "hdl1887.1item2010891.png"
+        ],
+        "1874": [
+            "hdl1887.1item2011199.png",
+            "hdl1887.1item2016897.png"
+        ],
+        "1877": [
+            "hdl1887.1item2011244.png",
+            "hdl1887.1item2012229.png",
+            "hdl1887.1item2012365.png",
+            "hdl1887.1item2012474.png"
+        ],
+        "1863": [
+            "hdl1887.1item2011247.png",
+            "hdl1887.1item2011898.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-080.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-083.tif.png"
+        ],
+        "1865": [
+            "hdl1887.1item2011323.png",
+            "hdl1887.1item2012687.png"
+        ],
+        "1868": [
+            "hdl1887.1item2011454.png"
+        ],
+        "1813": [
+            "hdl1887.1item2011894.png"
+        ],
+        "1822": [
+            "hdl1887.1item2011915.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-080.tif.png"
+        ],
+        "1733": [
+            "hdl1887.1item2012013.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-050.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-051.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-175-N-046.tif.png"
+        ],
+        "1825": [
+            "hdl1887.1item2012538.png",
+            "leiden__UBLCKA_COLLBN-Port-177-N-29.tif.png"
+        ],
+        "1668": [
+            "hdl1887.1item291739.png"
+        ],
+        "1742": [
+            "hdl1887.1item3181721.png",
+            "hdl1887.1item3181722.png",
+            "hdl1887.1item876332.png"
+        ],
+        "1793": [
+            "hdl1887.1item3181744.png",
+            "hdl1887.1item876307.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-074.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-075.tif.png"
+        ],
+        "1826": [
+            "hdl1887.1item876334.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-081.tif.png"
+        ],
+        "1686": [
+            "hdl1887.1item876335.png"
+        ],
+        "1570": [
+            "leiden__UBLCKA_COLLBN-Port-172-N-008.tif.png"
+        ],
+        "1634": [
+            "leiden__UBLCKA_COLLBN-Port-172-N-010.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-175-N-003.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-3.tif.png"
+        ],
+        "1727": [
+            "leiden__UBLCKA_COLLBN-Port-172-N-013.tif.png"
+        ],
+        "1696": [
+            "leiden__UBLCKA_COLLBN-Port-172-N-024.tif.png"
+        ],
+        "1694": [
+            "leiden__UBLCKA_COLLBN-Port-172-N-025.tif.png"
+        ],
+        "1759": [
+            "leiden__UBLCKA_COLLBN-Port-172-N-045.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-066.tif.png"
+        ],
+        "1754": [
+            "leiden__UBLCKA_COLLBN-Port-172-N-062.tif.png"
+        ],
+        "1753": [
+            "leiden__UBLCKA_COLLBN-Port-172-N-064.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-065.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-N-79.tif.png"
+        ],
+        "1762": [
+            "leiden__UBLCKA_COLLBN-Port-172-N-067.tif.png"
+        ],
+        "1833": [
+            "leiden__UBLCKA_COLLBN-Port-172-N-085-1.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-172-N-086.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-175-N-037.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-073.tif.png"
+        ],
+        "1591": [
+            "leiden__UBLCKA_COLLBN-Port-175-N-002.tif.png"
+        ],
+        "1805": [
+            "leiden__UBLCKA_COLLBN-Port-177-N-24.tif.png"
+        ],
+        "1818": [
+            "leiden__UBLCKA_COLLBN-Port-177-N-27.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-093.tif.png"
+        ],
+        "1687": [
+            "leiden__UBLCKA_COLLBN-Port-177-N-3.tif.png"
+        ],
+        "1739": [
+            "leiden__UBLCKA_COLLBN-Port-177-N-63.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-177-N-64.tif.png"
+        ],
+        "1731": [
+            "leiden__UBLCKA_COLLBN-Port-177-N-70.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-15.tif.png"
+        ],
+        "1848": [
+            "leiden__UBLCKA_COLLBN-Port-56-N-037.tif.png",
+            "leiden__UBLCKA_COLLBN-Port-56-N-075.tif.png"
+        ],
+        "1816": [
+            "leiden__UBLCKA_COLLBN-Port-56-N-071.tif.png"
+        ]
+    }
+}

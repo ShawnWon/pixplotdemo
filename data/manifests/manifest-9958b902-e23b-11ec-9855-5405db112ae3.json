@@ -1,0 +1,60 @@
+{
+    "version": "0.0.113",
+    "plot_id": "9958b902-e23b-11ec-9855-5405db112ae3",
+    "output_directory": "output",
+    "layouts": {
+        "umap": {
+            "variants": [
+                {
+                    "n_neighbors": 20,
+                    "min_dist": 0.1,
+                    "layout": "output\\data\\layouts\\umap-9958b902-e23b-11ec-9855-5405db112ae3.json",
+                    "jittered": null
+                }
+            ]
+        },
+        "alphabetic": {
+            "layout": "output\\data\\layouts\\grid-9958b902-e23b-11ec-9855-5405db112ae3.json"
+        },
+        "grid": {
+            "layout": null
+        },
+        "categorical": {
+            "layout": "output\\data\\layouts\\categorical-9958b902-e23b-11ec-9855-5405db112ae3.json",
+            "labels": "output\\data\\layouts\\categorical-labels-9958b902-e23b-11ec-9855-5405db112ae3.json"
+        },
+        "date": {
+            "layout": "output\\data\\layouts\\timeline-9958b902-e23b-11ec-9855-5405db112ae3.json",
+            "labels": "output\\data\\layouts\\timeline-labels-9958b902-e23b-11ec-9855-5405db112ae3.json"
+        },
+        "geographic": {
+            "layout": "output\\data\\layouts\\geographic-9958b902-e23b-11ec-9855-5405db112ae3.json"
+        },
+        "custom": null
+    },
+    "initial_layout": "umap",
+    "point_sizes": {
+        "min": 0,
+        "grid": 0.02631578947368421,
+        "max": 0.03157894736842105,
+        "scatter": 0.005263157894736842,
+        "initial": 0.005263157894736842,
+        "categorical": 0.015789473684210523,
+        "geographic": 0.0006578947368421052,
+        "date": 0.000925925925925926
+    },
+    "imagelist": "output\\data\\imagelists\\imagelist-9958b902-e23b-11ec-9855-5405db112ae3.json",
+    "atlas_dir": "output\\data\\atlases\\9958b902-e23b-11ec-9855-5405db112ae3",
+    "metadata": true,
+    "default_hotspots": "output\\data\\hotspots\\hotspot-9958b902-e23b-11ec-9855-5405db112ae3.json",
+    "custom_hotspots": "output\\data\\hotspots\\user_hotspots.json",
+    "gzipped": false,
+    "config": {
+        "sizes": {
+            "atlas": 2048,
+            "cell": 32,
+            "lod": 128
+        }
+    },
+    "creation_date": "02-June-2022-14:51:18"
+}
