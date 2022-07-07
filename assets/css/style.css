@@ -1930,9 +1930,12 @@ input[type=text] {
 
 }
 
-.hotspot-nav, #layout-geographic, #layout-grid, #layout-categorical {
-  display: none!important;
+.hotspot-nav, #layout-categorical {
+  display: default; /*none!important;*/
 
+}
+#layout-grid, #layout-geographic {
+  display: none!important;
 }
 
 .filter-options {
